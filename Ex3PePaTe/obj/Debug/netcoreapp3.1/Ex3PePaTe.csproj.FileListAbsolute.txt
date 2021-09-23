@@ -1,0 +1,13 @@
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\bin\Debug\netcoreapp3.1\Ex3PePaTe.exe
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\bin\Debug\netcoreapp3.1\Ex3PePaTe.deps.json
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\bin\Debug\netcoreapp3.1\Ex3PePaTe.runtimeconfig.json
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\bin\Debug\netcoreapp3.1\Ex3PePaTe.runtimeconfig.dev.json
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\bin\Debug\netcoreapp3.1\Ex3PePaTe.dll
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\bin\Debug\netcoreapp3.1\Ex3PePaTe.pdb
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\obj\Debug\netcoreapp3.1\Ex3PePaTe.csprojAssemblyReference.cache
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\obj\Debug\netcoreapp3.1\Ex3PePaTe.AssemblyInfoInputs.cache
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\obj\Debug\netcoreapp3.1\Ex3PePaTe.AssemblyInfo.cs
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\obj\Debug\netcoreapp3.1\Ex3PePaTe.csproj.CoreCompileInputs.cache
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\obj\Debug\netcoreapp3.1\Ex3PePaTe.dll
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\obj\Debug\netcoreapp3.1\Ex3PePaTe.pdb
+C:\Dropbox\Codigos\Csharp\POO2\Ex3PePaTe\obj\Debug\netcoreapp3.1\Ex3PePaTe.genruntimeconfig.cache

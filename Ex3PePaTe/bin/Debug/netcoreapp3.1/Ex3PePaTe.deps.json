@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex3PePaTe/1.0.0": {
+        "runtime": {
+          "Ex3PePaTe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex3PePaTe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
